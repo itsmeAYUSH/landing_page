@@ -1,2 +1,2 @@
-# oibsip_1
+# landing_page
 https://itsmeayush.github.io/oibsip_1/
